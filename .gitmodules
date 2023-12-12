@@ -19,3 +19,6 @@
 [submodule "twilight-portal-gateway"]
 	path = twilight-portal-gateway
 	url = https://github.com/MateusSilvaFreitas/twilight-portal-gateway.git
+[submodule "triforce-treasures-frontend"]
+	path = triforce-treasures-frontend
+	url = https://github.com/MateusSilvaFreitas/triforce-treasures-frontend.git
