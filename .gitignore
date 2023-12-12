@@ -7,8 +7,6 @@
 triforce-treasures-frontend/node_modules/
 triforce-treasures-frontend/dist/
 
-triforce-treasures-backend/src/main/resources/application.properties
-
 # Compiled Java class files
 *.class
 
