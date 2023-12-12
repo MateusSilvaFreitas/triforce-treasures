@@ -4,3 +4,18 @@
 [submodule "store-service"]
 	path = store-service
 	url = https://github.com/MateusSilvaFreitas/store-service.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/MateusSilvaFreitas/user-service.git
+[submodule "order-service"]
+	path = order-service
+	url = https://github.com/MateusSilvaFreitas/order-service.git
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/MateusSilvaFreitas/notification-service.git
+[submodule "billing-service"]
+	path = billing-service
+	url = https://github.com/MateusSilvaFreitas/billing-service.git
+[submodule "twilight-portal-gateway"]
+	path = twilight-portal-gateway
+	url = https://github.com/MateusSilvaFreitas/twilight-portal-gateway.git
