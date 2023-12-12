@@ -18,7 +18,7 @@ Triforce Treasures is a unique and enchanting e-commerce platform that brings th
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/triforce-treasures.git
+   git clone [https://github.com/your-username/triforce-treasures.git](https://github.com/MateusSilvaFreitas/triforce-treasures.git)
    ```
 
 2. **Navigate to Project Directory:**
